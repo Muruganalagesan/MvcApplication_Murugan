@@ -1,0 +1,12 @@
+C:\DUMP\MvcApplication1\ListView\bin\Debug\ListView.exe
+C:\DUMP\MvcApplication1\ListView\bin\Debug\ListView.pdb
+C:\DUMP\MvcApplication1\ListView\obj\Debug\ListView.csprojResolveAssemblyReference.cache
+C:\DUMP\MvcApplication1\ListView\obj\Debug\MainWindow.baml
+C:\DUMP\MvcApplication1\ListView\obj\Debug\MainWindow.g.cs
+C:\DUMP\MvcApplication1\ListView\obj\Debug\App.g.cs
+C:\DUMP\MvcApplication1\ListView\obj\Debug\ListView_MarkupCompile.cache
+C:\DUMP\MvcApplication1\ListView\obj\Debug\ListView.g.resources
+C:\DUMP\MvcApplication1\ListView\obj\Debug\ListView.Properties.Resources.resources
+C:\DUMP\MvcApplication1\ListView\obj\Debug\ListView.csproj.GenerateResource.Cache
+C:\DUMP\MvcApplication1\ListView\obj\Debug\ListView.exe
+C:\DUMP\MvcApplication1\ListView\obj\Debug\ListView.pdb
